@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod u+x lll # you do not have to understand this yet you do not have to understand this yet
+echo "git cloning git cloning git cloning git cloning git cloning"> me
+
