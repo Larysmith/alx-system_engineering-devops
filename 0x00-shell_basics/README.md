@@ -1,2 +1,2 @@
 #!/bin/bash
-git clone for cloning for cloning repo, git push for pushing to repo
+/tmp/correction/7946608897052293170829937194718718459830_5/205/71571/0x00-shell_basics
