@@ -1,2 +1,3 @@
-# alx-system_engineering-devops
-git cloning for cloning a repo git cloning for cloning a repo git cloning for cloning a repo
+#!/bin/bash
+chmod u+x lll # you do not have to understand this yet you do not have to understand this yet
+
