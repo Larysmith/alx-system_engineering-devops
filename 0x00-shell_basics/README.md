@@ -1,2 +1,2 @@
 #!/bin/bash
-git cloning for cloning a repo git cloning for cloning a repo git cloning for cloning a repo
+chmod u+x lll # you do not have to understand this yet you do not have to understand this yet
