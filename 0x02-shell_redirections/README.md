@@ -1,2 +1,1 @@
-shell redirection on linux
-
+echo for getting output and displaying
