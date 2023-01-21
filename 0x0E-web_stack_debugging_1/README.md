@@ -15,4 +15,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Marcus IMagwe** - (https://github.com/Dr-MarcusI)
+* **Lary Yusuf** - (https://github.com/larysmith)
